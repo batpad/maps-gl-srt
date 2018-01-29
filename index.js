@@ -8,7 +8,7 @@
         zoom: 16 // starting zoom
     });
 
-    mapSRT(map, ['https://video500.pad.ma/WX/240p1.webm'], 'test.srt', {
+    mapSRT(map, ['https://video8.pad.ma/WX/240p1.webm'], 'test.srt', {
         'muted': true
     });
 
